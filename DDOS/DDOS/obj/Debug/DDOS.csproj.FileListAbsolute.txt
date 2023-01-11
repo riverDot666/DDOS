@@ -1,0 +1,27 @@
+C:\Users\Administrator\source\repos\DDOS\DDOS\bin\Debug\DDOS.exe.config
+C:\Users\Administrator\source\repos\DDOS\DDOS\bin\Debug\DDOS.exe
+C:\Users\Administrator\source\repos\DDOS\DDOS\bin\Debug\DDOS.pdb
+C:\Users\Administrator\source\repos\DDOS\DDOS\obj\Debug\DDOS.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\DDOS\DDOS\obj\Debug\DDOS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\DDOS\DDOS\obj\Debug\DDOS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DDOS\DDOS\obj\Debug\DDOS.csproj.CopyComplete
+C:\Users\Administrator\source\repos\DDOS\DDOS\obj\Debug\DDOS.exe
+C:\Users\Administrator\source\repos\DDOS\DDOS\obj\Debug\DDOS.pdb
+C:\Users\Administrator\source\repos\DDOS\DDOS\bin\Debug\Leaf.xNet.dll
+C:\Users\Administrator\source\repos\DDOS\DDOS\bin\Debug\Leaf.xNet.xml
+C:\Users\Administrator\source\repos\DDOS\DDOS\bin\Debug\Colorful.Console.dll
+C:\Users\Administrator\source\repos\DDOS\DDOS\bin\Debug\WebDriver.dll
+C:\Users\Administrator\source\repos\DDOS\DDOS\bin\Debug\WebDriver.Support.dll
+C:\Users\Admin\Desktop\DDOS (3)\DDOS\DDOS\obj\Debug\DDOS.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DDOS (3)\DDOS\DDOS\obj\Debug\DDOS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DDOS (3)\DDOS\DDOS\obj\Debug\DDOS.exe
+C:\Users\Admin\Desktop\DDOS (3)\DDOS\DDOS\obj\Debug\DDOS.pdb
+C:\Users\Admin\Desktop\DDOS (3)\DDOS\DDOS\bin\Debug\DDOS.exe.config
+C:\Users\Admin\Desktop\DDOS (3)\DDOS\DDOS\bin\Debug\DDOS.exe
+C:\Users\Admin\Desktop\DDOS (3)\DDOS\DDOS\bin\Debug\DDOS.pdb
+C:\Users\Admin\Desktop\DDOS (3)\DDOS\DDOS\bin\Debug\Colorful.Console.dll
+C:\Users\Admin\Desktop\DDOS (3)\DDOS\DDOS\bin\Debug\Leaf.xNet.dll
+C:\Users\Admin\Desktop\DDOS (3)\DDOS\DDOS\bin\Debug\WebDriver.dll
+C:\Users\Admin\Desktop\DDOS (3)\DDOS\DDOS\bin\Debug\WebDriver.Support.dll
+C:\Users\Admin\Desktop\DDOS (3)\DDOS\DDOS\bin\Debug\Leaf.xNet.xml
+C:\Users\Admin\Desktop\DDOS (3)\DDOS\DDOS\obj\Debug\DDOS.csproj.CopyComplete
